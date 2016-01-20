@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="60dip"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:textSize="40sp"
+    android:textStyle="bold"/>
+<!-- From: file:/D:/lcc2014/Androidstudio/BookMark/app/src/main/res/layout/view_news_gallery_item.xml -->

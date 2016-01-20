@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- onedaynews列表页面控件颜色 -->
+    <color name="view_vertical_line_item_layout_line_color">#D8D6D6</color>
+    <color name="view_head_photo_and_intro_text_item_layout_name_text_color">#2B2B2B</color>
+    <color name="view_head_photo_and_intro_text_item_layout_visit_count_text_color">#A6A5A4</color>
+    <color name="view_head_photo_and_intro_text_item_layout_time_count_text_color">#A6A5A4</color>
+    <color name="view_tag_blue">#C5D9F1</color>
+    <color name="view_tag_red">#C00000</color>
+    <color name="view_tag_green">#92D050</color>
+</resources>

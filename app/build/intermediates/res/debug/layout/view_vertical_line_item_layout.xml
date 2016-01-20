@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+ <View
+        android:id="@+id/view_vertical_line_view_vertical_line_item_layout"
+        android:layout_width="@dimen/view_vertical_line_item_layout_width"
+        android:layout_height="@dimen/view_vertical_line_item_layout_height"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/view_vertical_line_item_layout_line_color" />
+</LinearLayout>
+<!-- From: file:/D:/lcc2014/Androidstudio/BookMark/app/src/main/res/layout/view_vertical_line_item_layout.xml -->

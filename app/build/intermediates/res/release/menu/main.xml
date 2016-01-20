@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.actionbartest.MainActivity">
+
+    <item
+        android:id="@+id/item_tags"
+        android:title="@string/tags" />
+    <item
+        android:id="@+id/item_calendar"
+        android:title="@string/calendar"
+        />
+</menu>
+<!-- From: file:/D:/lcc2014/Androidstudio/BookMark/app/src/main/res/menu/main.xml -->

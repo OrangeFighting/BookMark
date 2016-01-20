@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- onedaynews列表页面下控件尺寸 -->
+    <dimen name="view_vertical_line_item_layout_width">2.2dp</dimen>
+    <dimen name="view_vertical_line_item_layout_height">9dp</dimen><!-- 这里为15.1dp的一半多 -->
+    <dimen name="view_head_photo_item_layout_head_photo_width">56.9dp</dimen>
+    <dimen name="view_head_photo_item_layout_head_photo_height">56.9dp</dimen>
+    <dimen name="view_head_photo_and_text_item_layout_head_photo_left_gap">12.4dp</dimen>
+    <dimen name="view_head_photo_and_text_item_layout_intro_text_right_gap">25dp</dimen>
+    <dimen name="view_head_photo_and_text_item_layout_gap_between_head_photo_and_text">14.2dp</dimen>
+    <dimen name="view_head_photo_item_layout_head_photo_and_background_size">60dp</dimen>
+    <dimen name="view_head_photo_and_intro_text_item_layout_name_text_size">13.3dp</dimen>
+    <dimen name="view_head_photo_and_intro_text_item_layout_visit_title_magin_right">15dp</dimen>
+    <dimen name="view_head_photo_and_intro_text_item_layout_visit_count_size">10.7dp</dimen>
+    <dimen name="view_head_photo_and_intro_text_item_layout_time_title_magin_left">5dp</dimen>
+    <dimen name="view_head_photo_and_intro_text_item_layout_time_count_size">10.7dp</dimen>
+    <dimen name="view_head_photo_and_intro_text_item_layout_Gap_between_name_and_time_text_size">46.9dp</dimen>
+    
+</resources>

@@ -1,0 +1,7 @@
+D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\classes\release
+D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-99970051c421ab609742b00382dddefa033d7341.jar
+D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\classes-49628c9ad30fcd1c20e5b788d3f2a8f1ec33797d.jar
+D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\library-2.4.0-dd460f45d27a359687729c3c169358b1eda3100b.jar
+D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-e682f54dc97881b5bfbbe8e5aff8923cf964ee04.jar
+D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\classes-f28c5e57a05ce116301723681c3924bc3e521ff7.jar
+D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\classes-7190d1fe16e75c4e077efcf733ba312912b62548.jar

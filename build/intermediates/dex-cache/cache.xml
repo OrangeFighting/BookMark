@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files\Android-develop\sdk5.0\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-99970051c421ab609742b00382dddefa033d7341.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\library-2.4.0-dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\classes-f28c5e57a05ce116301723681c3924bc3e521ff7.jar" />
+    </item>
+    <item
+        jar="D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-e682f54dc97881b5bfbbe8e5aff8923cf964ee04.jar" />
+    </item>
+    <item
+        jar="D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\exploded-aar\BookMark\datetimepicker-library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="cbc3a71d0a59fe05661daead06c509c8ff0bced2">
+        <dex dex="D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\classes-49628c9ad30fcd1c20e5b788d3f2a8f1ec33797d.jar" />
+    </item>
+    <item
+        jar="D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\lcc2014\Androidstudio\BookMark\app\build\intermediates\pre-dexed\release\classes-7190d1fe16e75c4e077efcf733ba312912b62548.jar" />
+    </item>
+
+</items>
